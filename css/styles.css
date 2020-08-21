@@ -38,7 +38,7 @@ hr{
 }
 .intro{
   width: 30%;
-  margin: auto;
+  margin: auto auto 30px;
 }
 .skill-row{
   width: 50%;
